@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      // ...
+      "baseUrl": "http://localhost:5173",
+      "paths": {
+        "@/*": [
+          "./src/*"
+        ]
+      }
+      // ...
+    }
+  }
